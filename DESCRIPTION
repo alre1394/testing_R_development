@@ -1,5 +1,5 @@
-Package: mlpack
-Title: What the Package Does (One Line, Title Case)
+Package: TestPack
+Title: Package to test package development in R (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
     person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
@@ -12,3 +12,5 @@ RoxygenNote: 8.1.0
 Depends: 
     R (>= 3.5)
 LazyData: true
+URL: https://github.com/alre1394/mlpack
+BugReports: https://github.com/alre1394/mlpack/issues
