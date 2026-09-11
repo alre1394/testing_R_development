@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/alre1394/mlpack/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/alre1394/mlpack/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of TestPack is to test the R package development workflow
@@ -12,11 +13,11 @@ The goal of TestPack is to test the R package development workflow
 ## Installation
 
 You can install the development version of TestPack from
-[GitHub](https://github.com/alre1394/TestPack) with:
+[GitHub](https://github.com/alre1394/testing_R_development) with:
 
 ``` r
 # install.packages("pak")
-pak::pak("alre1394/TestPack")
+pak::pak("alre1394/testing_R_development")
 ```
 
 ## Example

@@ -10,7 +10,7 @@ Roxygen: list(markdown = TRUE)
 Depends: 
     R (>= 3.5)
 LazyData: true
-URL: https://github.com/alre1394/mlpack
+URL: https://github.com/alre1394/mlpack, https://alre1394.github.io/testing_R_development/
 BugReports: https://github.com/alre1394/mlpack/issues
 Config/roxygen2/version: 8.1.0
 Suggests: 
