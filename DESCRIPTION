@@ -1,9 +1,9 @@
 Package: TestPack
-Title: Package to test package development in R (One Line, Title Case)
+Title: Package to test package development in R
 Version: 0.0.0.9000
 Authors@R: 
     person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Description: Test the R package development workflow.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
@@ -13,3 +13,8 @@ LazyData: true
 URL: https://github.com/alre1394/mlpack
 BugReports: https://github.com/alre1394/mlpack/issues
 Config/roxygen2/version: 8.1.0
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Imports: 
+    fs
